@@ -2,7 +2,7 @@ name: flutter_bluetooth_adapter
 description: A flutter plugin for using bluetooth adapter on flutter (Android only)
 version: 0.0.1
 author: Kevin Mendez <kevinmendezdev@gmail.com>
-homepage:
+homepage: https://github.com/kevinrmendez/flutter_bluetooth_adapter_plugin
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
